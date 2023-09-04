@@ -1,2 +1,3 @@
-spotify_keys.yml
-genius_key.yml
+**/spotify_keys.yml
+**/genius_key.yml
+**/git_token.txt
